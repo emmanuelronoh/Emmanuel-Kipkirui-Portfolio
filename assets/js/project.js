@@ -10,7 +10,7 @@ const projects = [
     cardImage: "https://i.ibb.co/G3PTSLqM/Pasted-image.png",
     description: "A professional company website built with React, showcasing SkillSphere's services, portfolio, and company information.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://skillsphere-company-website.vercel.app/",
+    Previewlink: "https://skillsphere-ventures-company.vercel.app/",
     Githublink: "https://github.com/emmanuelronoh/skillsphere-company-website",
   },
   {

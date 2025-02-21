@@ -19,13 +19,7 @@ const exp = [
   time: "(July 2024 - present)",  // Replace [Start Date] with when you started on Upwork
   desp: "<li>Providing freelance software development services on Upwork, focusing on building scalable web and mobile applications for clients worldwide.</li> <li>Specializing in React, Node.js, and modern JavaScript technologies, delivering custom solutions tailored to client needs.</li> <li>Consistently maintained a high client satisfaction rate, with multiple long-term contracts and repeat business from top clients.</li> <li>Worked on a wide variety of projects, including e-commerce platforms, business management tools, and responsive websites.</li>",
 },
-{
-  title: "Microsoft Office Suite",
-  cardImage: "assets/images/experience-page/computer-training.jpg",  // Use an appropriate image
-  place: "African CompLink College",
-  time: "(January 2024 - March 2024)",
-  desp: "<li>Completed an intensive computer training program focusing on Microsoft Office applications, including Excel, Word, PowerPoint, Introduction to networking and Internet and Outlook.</li> <li>Developed advanced skills in Excel, including functions, pivot tables, data visualization, and spreadsheet management.</li> <li>Learned essential computer skills for efficient document creation, data analysis, and presentation development.</li> <li>Acquired proficiency in using Microsoft Office tools for personal and professional tasks, enhancing productivity and workflow efficiency.</li>",
-},
+
 ];
 
 const showCards2 = () => {

@@ -38,8 +38,9 @@
   align-items: center;
   width: var(--atom-size);
   height: var(--atom-size);
-  animation: 8s atom infinite cubic-bezier(1, .25, 0, .75);
+  animation: 2s atom infinite ease-in-out; /* Changed to 'ease-in-out' for smoother animation */
 }
+
 @keyframes atom{
   0% {    
     transform: rotate(0deg) scale(1); 
